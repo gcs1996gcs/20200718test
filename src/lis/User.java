@@ -2,10 +2,9 @@ package lis;
 
 public class User {
 
-	private String name;//姓名
+	private String name;
 	private int age;
 	private double chengji;
-                private double 爱好;
 	
 	
 	public String getName() {
@@ -48,6 +47,8 @@ public class User {
 		User user = new User();
         user.addmain("张三1", 21, 22.78);
         user.addmain("张三2", 21, 22.78);
+        user.addmain("张三3", 21, 22.78);
+        user.addmain("张三4", 21, 22.78);
 	}
 
 }
