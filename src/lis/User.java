@@ -45,7 +45,8 @@ public class User {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		User user = new User();
-        user.addmain("张三", 21, 22.78);
+        user.addmain("张三1", 21, 22.78);
+        user.addmain("张三2", 21, 22.78);
 	}
 
 }
