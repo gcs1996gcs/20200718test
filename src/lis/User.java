@@ -5,6 +5,7 @@ public class User {
 	private String name;
 	private int age;
 	private double chengji;
+                private double 爱好;
 	
 	
 	public String getName() {
