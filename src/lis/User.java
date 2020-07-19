@@ -54,6 +54,7 @@ public class User {
        	                user.addmain("张三2", 21, 22.78);
         		user.addmain("张三3", 21, 22.78);
         		user.addmain("张三4", 21, 22.78);
+user.addmain("张三5", 21, 22.78);
 	}
 
 }
