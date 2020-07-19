@@ -2,7 +2,7 @@ package lis;
 
 public class User {
 
-	private String name11;
+	private String name;
 	private int age;
 	private double chengji;
 
@@ -10,7 +10,7 @@ public class User {
     private double 爱好2;
    
 
-   private double 爱好3;
+   private double 爱好31;
 	
 	public String getName() {
 		return name;
@@ -43,7 +43,7 @@ public class User {
 
 
 	public void addmain(String name,int age, double chengji){
-		 name= "2020071910216";
+		name= "2020071910216";
 		System.out.println("大家好，我是"+name+"，今年"+age+"岁,"+"我英语是 "+chengji+"分。");
 	}
 	
@@ -51,10 +51,10 @@ public class User {
 		// TODO Auto-generated method stub
 		User user = new User();
         		user.addmain("张三1", 21, 22.78);
-       	                user.addmain("张三2", 21, 22.78);
+       	        user.addmain("张三2", 21, 22.78);
         		user.addmain("张三3", 21, 22.78);
         		user.addmain("张三4", 21, 22.78);
-user.addmain("张三5", 21, 22.78);
+                user.addmain("张三5", 21, 22.78);
 	}
 
 }
