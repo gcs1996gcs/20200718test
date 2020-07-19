@@ -8,6 +8,7 @@ public class User {
 
     private double 爱好1;
     private double 爱好2;
+   
 
 
 	
@@ -42,7 +43,7 @@ public class User {
 
 
 	public void addmain(String name,int age, double chengji){
-		
+		 name= "202007191026";
 		System.out.println("大家好，我是"+name+"，今年"+age+"岁,"+"我英语是 "+chengji+"分。");
 	}
 	
