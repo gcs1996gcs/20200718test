@@ -2,7 +2,7 @@ package lis;
 
 public class User {
 
-	private String name;
+	private String name11;
 	private int age;
 	private double chengji;
 
