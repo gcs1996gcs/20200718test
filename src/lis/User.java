@@ -7,6 +7,7 @@ public class User {
 	private double chengji;
     private double 爱好1;
     private double 爱好2;
+    private double 爱好3;
 	
 	
 	public String getName() {
