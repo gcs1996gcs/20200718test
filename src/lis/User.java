@@ -11,7 +11,7 @@ public class User {
    
 
    private double 爱好31;
-	
+	1
 	public String getName() {
 		return name;
 	}
