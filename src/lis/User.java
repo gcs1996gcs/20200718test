@@ -43,7 +43,7 @@ public class User {
 
 
 	public void addmain(String name,int age, double chengji){
-		 name= "202007191026";
+		 name= "2020071910216";
 		System.out.println("大家好，我是"+name+"，今年"+age+"岁,"+"我英语是 "+chengji+"分。");
 	}
 	

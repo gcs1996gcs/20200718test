@@ -1,5 +1,5 @@
 package lis;
-1
+
 public class UserDao {
 	private String newnameString;
 
