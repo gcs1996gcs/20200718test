@@ -5,9 +5,9 @@ public class User {
 	private String name;
 	private int age;
 	private double chengji;
-    private double 爱好1;
-    private double 爱好2;
-	
+    	private double 爱好1;
+    	private double 爱好2;
+		
 	
 	public String getName() {
 		return name;
@@ -47,10 +47,10 @@ public class User {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		User user = new User();
-        user.addmain("张三1", 21, 22.78);
-        user.addmain("张三2", 21, 22.78);
-        user.addmain("张三3", 21, 22.78);
-        user.addmain("张三4", 21, 22.78);
+        		user.addmain("张三1", 21, 22.78);
+       	                user.addmain("张三2", 21, 22.78);
+        		user.addmain("张三3", 21, 22.78);
+        		user.addmain("张三4", 21, 22.78);
 	}
 
 }
